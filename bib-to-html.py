@@ -1,4 +1,5 @@
-# bib-to-html - transforms a BibTex file into an HTML file using a template and simple string replacement
+# bib-to-html - transforms a BibTex file into an HTML file using a 
+# template and simple string replacement
 # Copyright (C) 2017 Jeremiah Peschka <jpeschka@pdx.edu>
 #
 # This program is free software: you can redistribute it and/or modify
